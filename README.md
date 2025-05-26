@@ -1,2 +1,1 @@
-# vanila-frontend  
-# s3
+# vanila-frontend
